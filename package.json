@@ -17,7 +17,10 @@
   "author": "Fujisawa Shin",
   "license": "ISC",
   "dependencies": {
+    "async": "^1.5.0",
     "colors": "0.6.*",
+    "glob": "6.0.*",
+    "gm": "1.21.*",
     "optimist": "0.5.*"
   },
   "devDependencies": {

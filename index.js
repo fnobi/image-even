@@ -1,1 +1,1 @@
-module.exports = require('./lib/image-even');
+module.exports = require('./lib/ImageEven');
