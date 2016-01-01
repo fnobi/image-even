@@ -1,1 +1,1 @@
-module.exports = require('./lib/hinagata-nodebin');
+module.exports = require('./lib/image-even');

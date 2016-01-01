@@ -1,15 +1,15 @@
 {
-  "name": "hinagata-nodebin",
+  "name": "image-even",
   "version": "1.0.0",
-  "description": "hinagata-nodebin client.",
+  "description": "image-even client.",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
-  "bin": "bin/hinagata-nodebin",
+  "bin": "bin/image-even",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/fnobi/hinagata-nodebin.git"
+    "url": "git+ssh://git@github.com/fnobi/image-even.git"
   },
   "keywords": [
     "cli"
@@ -27,7 +27,7 @@
     "mocha": "1.11.*"
   },
   "bugs": {
-    "url": "https://github.com/fnobi/hinagata-nodebin/issues"
+    "url": "https://github.com/fnobi/image-even/issues"
   },
-  "homepage": "https://github.com/fnobi/hinagata-nodebin#readme"
+  "homepage": "https://github.com/fnobi/image-even#readme"
 }

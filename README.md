@@ -1,20 +1,20 @@
-hinagata-nodebin
+image-even
 ==============
 
-hinagata-nodebin client.
+image-even client.
 
 ## install
 
 ### from npm
 
 ```
-npm install hinagata-nodebin
+npm install image-even
 ```
 
 ### from github
 
 ```
-git clone git://github.com/fnobi/hinagata-nodebin.git
+git clone git://github.com/fnobi/image-even.git
 ```
 
 ## usage
