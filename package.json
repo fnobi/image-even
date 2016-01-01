@@ -1,0 +1,22 @@
+{
+  "name": "hinagata-nodebin",
+  "version": "1.0.0",
+  "description": "hinagata-nodebin client.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fnobi/hinagata-nodebin.git"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "Fujisawa Shin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fnobi/hinagata-nodebin/issues"
+  },
+  "homepage": "https://github.com/fnobi/hinagata-nodebin#readme"
+}
