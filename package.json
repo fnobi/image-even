@@ -6,6 +6,7 @@
   "scripts": {
     "test": "mocha"
   },
+  "bin": "bin/hinagata-nodebin",
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/fnobi/hinagata-nodebin.git"
@@ -15,6 +16,16 @@
   ],
   "author": "Fujisawa Shin",
   "license": "ISC",
+  "dependencies": {
+    "colors": "0.6.*",
+    "optimist": "0.5.*"
+  },
+  "devDependencies": {
+    "chai": "1.6.*",
+    "grunt": "0.4.*",
+    "grunt-release": "0.13.*",
+    "mocha": "1.11.*"
+  },
   "bugs": {
     "url": "https://github.com/fnobi/hinagata-nodebin/issues"
   },
