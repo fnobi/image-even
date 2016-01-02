@@ -16,6 +16,9 @@
   ],
   "author": "Fujisawa Shin",
   "license": "ISC",
+  "engines": {
+    "node": ">=4.0.0"
+  },
   "dependencies": {
     "colors": "0.6.*",
     "optimist": "0.5.*"
