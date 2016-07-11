@@ -1,7 +1,16 @@
 image-even
 ==============
 
-image-even client.
+CLI to resize image into even pixels.
+
+## dependencies
+
+install GraphicsMagick or ImageMagick.
+
+```
+brew install imagemagick
+brew install graphicsmagick
+```
 
 ## install
 
