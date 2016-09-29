@@ -24,7 +24,11 @@
     "colors": "0.6.*",
     "glob": "6.0.*",
     "gm": "1.21.*",
-    "optimist": "0.5.*"
+    "gulp-util": "^3.0.7",
+    "lodash": "^4.16.2",
+    "optimist": "0.5.*",
+    "through2": "^2.0.1",
+    "vinyl": "^1.2.0"
   },
   "devDependencies": {
     "chai": "1.6.*",

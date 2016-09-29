@@ -1,1 +1,3 @@
-module.exports = require('./lib/ImageEven');
+const ImageEven = require('./lib/ImageEven');
+ImageEven.gulp = require('./lib/gulp');
+module.exports = ImageEven;
